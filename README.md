@@ -11,4 +11,4 @@ Esta práctica se ha realizado individualmente por JUAN HERRANZ MARTÍN.
 
 · train.csv: corresponde al archivo CSV utilizado en la práctica, extraído de la web https://www.kaggle.com/c/titanic/data
 
-· titanic_analyzed.csv: corresponde al dataset con los datos procesados, creados, transformados y analizados.
+· titanic_analyzed.csv: corresponde al dataset con los datos finales procesados, creados, transformados y analizados.
