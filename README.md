@@ -10,3 +10,5 @@ Esta práctica se ha realizado individualmente por JUAN HERRANZ MARTÍN.
 · Practica2.Rmd: corresponde al código fuente utilizado en R.
 
 · train.csv: corresponde al archivo CSV utilizado en la práctica, extraído de la web https://www.kaggle.com/c/titanic/data
+
+· titanic_analyzed.csv: corresponde al dataset con los datos procesados, creados, transformados y analizados.
